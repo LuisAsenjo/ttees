@@ -1,5 +1,5 @@
 {
-  "name": "shader-school", LgzmtnTH8A
+  "name": "shader-school",
   "version": "1.1.0",
   "description": "Self directed GLSL lessons",
   "main": "index.js",
